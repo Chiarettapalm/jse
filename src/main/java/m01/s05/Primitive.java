@@ -7,6 +7,14 @@ public class Primitive {
 
         char c = 's';
         System.out.println(c);
+/*
+ * 
+ *     [0][0][0][0][0][0][0][0]
+ *     
+ * (base10)2371=(1*10^0)+(7*10^1)+(3*10^2)+(2*10^3)noi
+ * (base2)computer(si comincia da sinistra)1011=(1*2^0)+(1*2^1)+(0*2^2)+(1*2^3)=13 ora è in base 10
+ * 
+ */
 
         byte y = 42;
         System.out.println(y);
